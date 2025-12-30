@@ -3,9 +3,9 @@ owner: dvddepennde # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: https://dvddepennde.github.io/
+  - name: dvddepennde.github.io
     url: https://dvddepennde.github.io/
-  - name: https://dataspace.heleade.iuii.ua.es
+  - name: dataspace.heleade.iuii.ua.es
     url: https://dataspace.heleade.iuii.ua.es/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

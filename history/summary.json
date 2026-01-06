@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/david-bernabeu.github.io.ico",
     "slug": "david-bernabeu-github-io",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 120,
-    "timeDay": 160,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 128,
+    "timeDay": 180,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {
       "2025-12-31": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 455,
-    "timeWeek": 424,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "time": 441,
+    "timeDay": 559,
+    "timeWeek": 441,
+    "timeMonth": 441,
+    "timeYear": 441,
     "dailyMinutesDown": {}
   }
 ]

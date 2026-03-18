@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 126,
-    "timeDay": 305,
-    "timeWeek": 129,
-    "timeMonth": 130,
+    "timeDay": 148,
+    "timeWeek": 135,
+    "timeMonth": 132,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2025-12-31": 6
@@ -25,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dataspace.heleade.iuii.ua.es.ico",
     "slug": "dataspace-heleade-iuii-ua-es",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.67%",
+    "uptimeDay": "76.26%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.67%",
     "time": 418,
-    "timeDay": 693,
-    "timeWeek": 440,
-    "timeMonth": 378,
+    "timeDay": 0,
+    "timeWeek": 452,
+    "timeMonth": 379,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2026-03-18": 47,
+      "2026-03-17": 295,
       "2026-01-23": 29
     }
   }
